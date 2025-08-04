@@ -1,0 +1,31 @@
+Eggs,10,30,normalItem
+Milk,15,25,normalItem
+Steak,50,40,normalItem
+Apples,5,15,normalItem
+Bread,8,20,normalItem
+Cheese,25,35,normalItem
+Potatoes,10,20,normalItem
+Spinach,15,45,normalItem
+Chicken Breast,30,35,normalItem
+Olive Oil,40,25,normalItem
+Bananas,7,18,normalItem
+Carrots,6,22,normalItem
+Rice,12,15,normalItem
+Pasta,10,12,normalItem
+Tomatoes,8,19,normalItem
+Onions,4,16,normalItem
+Bell Peppers,12,25,normalItem
+Lettuce,7,30,normalItem
+Cucumbers,6,24,normalItem
+Garlic,9,20,normalItem
+Almonds,35,33,normalItem
+Peanut Butter,20,30,normalItem
+Yogurt,18,28,normalItem
+Salmon,45,50,normalItem
+Honey,25,27,normalItem
+Coupon,50,0,powerUp
+Teleporter,100,0,powerUp
+Fresh Produce,100,0,powerUp
+Manufactor Recall,100,0,debuff
+Dropped Wallet,50,0,debuff
+Broken Shopping Cart,100,0,debuff

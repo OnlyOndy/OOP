@@ -1,0 +1,8 @@
+boardSize:5
+amountOfPlayers:4
+amountOfRounds:10
+amountOfItemBoxes:5
+itemsPerItemBox:5
+StartingBudget:1000
+powerUpsEnabled:true
+debuffsEnabled:true
